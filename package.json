@@ -1,0 +1,24 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "Newsletter sign up",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollinsQuintan/My_Newsletter.git"
+  },
+  "author": "Collins Cheruiyot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollinsQuintan/My_Newsletter/issues"
+  },
+  "homepage": "https://github.com/CollinsQuintan/My_Newsletter#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
